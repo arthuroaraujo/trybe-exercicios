@@ -1,1 +1,0 @@
-document.getElementById('teste').innerText = 'Empregado e com mais gatos';
